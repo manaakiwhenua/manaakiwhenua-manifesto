@@ -1,0 +1,8 @@
+language: minimal
+before_install:
+        - test -e FOO && test -r FOO && test -n FOO
+        - test -e LICENSE.txt && test -r LICENSE.txt && test -n LICENSE.txt
+        - test -e README.md && test -r README.md && test -n README.md
+install: skip
+before_script: skip
+script: skip
