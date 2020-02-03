@@ -1,3 +1,5 @@
+[![mwlr-standards](https://github.com/manaakiwhenua/manaakiwhenua-manifesto/workflows/mwlr-standards/badge.svg)](https://github.com/manaakiwhenua/mwlr-standards-action)
+
 # The Manaaki Whenua GitHub Manifesto
 
 This repository contains a manifesto as to the intentions, motives, and views of a group of Manaaki Whenua - Landcare Research staff 
