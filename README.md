@@ -1,4 +1,4 @@
-[![mwlr-standards](https://github.com/manaakiwhenua/manaakiwhenua-manifesto/workflows/mwlr-standards/badge.svg)](https://github.com/manaakiwhenua/mwlr-standards-action)
+[![mwlr-standards](https://github.com/manaakiwhenua/manaakiwhenua-manifesto/workflows/mwlr-standards/badge.svg)](https://github.com/manaakiwhenua/manaakiwhenua-standards)
 
 # The Manaaki Whenua GitHub Manifesto
 
